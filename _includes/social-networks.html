@@ -69,6 +69,14 @@
     </a>
 </div>
 {% endif %}
+{% if site.social.matrix %}
+<div class="uk-text-center">
+    <a href="{{ site.social.matrix }}" class="uk-icon-link uk-icon" target="_blank">
+    <img src="{{ site.uploads | absolute_url }}/matrix.svg" alt="matrix bluewallet">
+        <span class="social-label">Matrix</span>
+    </a>
+</div>
+{% endif %}
 {% if site.social.github %}
 <div class="uk-text-center">
     <a href="{{ site.social.github }}" class="uk-icon-link uk-icon" target="_blank">

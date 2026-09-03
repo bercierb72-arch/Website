@@ -123,6 +123,7 @@ social:
     vimeo:          
     youtube:
     telegram:        https://t.me/bluewallet
+    matrix:          https://matrix.to/#/%23community:matrix.org
 
 # Share button
 share:

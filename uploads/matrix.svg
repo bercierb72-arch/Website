@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <title>matrix</title>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3,3 L5,3 L5,21 L3,21 L3,3 Z M19,3 L21,3 L21,21 L19,21 L19,3 Z M8.29411765,8 L10.7573529,8 L12,11.009901 L13.2426471,8 L15.7058824,8 L15.7058824,16 L13.8235294,16 L13.8235294,11.6831683 L12.4044118,15.1485149 L11.5955882,15.1485149 L10.1764706,11.6831683 L10.1764706,16 L8.29411765,16 L8.29411765,8 Z" fill="#637082" fill-rule="nonzero"></path>
+    </g>
+</svg>
