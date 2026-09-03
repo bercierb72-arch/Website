@@ -5,8 +5,9 @@ title: Got Any Questions
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### Contact Links
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+- [Matrix link](https://matrix.to/#/!JxVdjluQhAiplXpUpi:t2l.io?via=t2l.io&via=matrix.org&via=mozilla.org)
+- [Twelve profile](https://twelve.cash/stephen@twelve.cash)
 
 {% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
