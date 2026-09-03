@@ -1,12 +1,14 @@
 ---
 layout: page
 width: xsmall
-title: Got Any Questions
+title: Contact Us
 permalink: /contact/
 ---
 
-##### Morbi varius in accumsan blandit, elit ligula velit, luctus mattis ante nulla nulla.
+##### Get in touch with the BlueWallet team
 
-Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+Have a question, found an issue on the website, or want to share feedback? Send us a message below and we will get back to you at the email address you provide.
 
-{% include formspree.html email="my_name@gmail.com" redirect="/thanks/" name="true" subject="true" %}
+You can also reach us directly at [bluewallet@bluewallet.io](mailto:bluewallet@bluewallet.io).
+
+{% include formspree.html email=site.email redirect="/thanks/" name="true" subject="true" %}
