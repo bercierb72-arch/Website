@@ -8,6 +8,8 @@ cover: home.png
 
 {% include home-hero.html %}
 
+{% include cta.html title="Explore Kalshi on Speed Wallet!" subtitle="Enjoy seamless payments and exciting features." button_text="Tap below to get started!" button_url="https://links.speed.app/miniapps?app_id=app_m96m0vulUX1PUmcT" %}
+
 {% include home-features-grid.html %}
 
 {% include home-feedback.html %}
