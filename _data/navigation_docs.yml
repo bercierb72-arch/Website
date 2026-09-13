@@ -20,6 +20,7 @@
 - title: Send & receive
   docs:
   - send-bitcoin-transaction
+  - pay-from-qr-code
   - receive-bitcoin-transaction
   - show-addresses
   - bip47-paycodes
